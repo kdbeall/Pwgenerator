@@ -1,0 +1,64 @@
+body {
+    background-color: #ecf0f1;
+}
+
+.app{
+  text-align: center;
+  font-size: 8em;
+  margin-top: 12%;
+}
+
+
+
+#button {
+  width:100%;
+  height:20%;
+  color: white;
+  background-color: #f1c40f;
+  font-size: 6em;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  font-family: Oswald, sans-serif;
+
+}
+
+#name {
+    color: #2c3e50;
+    text-align: center;
+    font-family: Oswald, sans-serif;
+    margin-top: 40%;
+}
+
+.numberCircle {
+    border-radius: 50%;
+    behavior: url(PIE.htc); /* remove if you don't care about IE8 */
+
+    width: 240px;
+    height: 240px;
+    padding: 8px;
+
+    background: #fff;
+    border: 5px solid #666;
+    color: #666;
+    text-align: center;
+
+    font-family: Oswald, sans-serif;
+    display: inline-block;
+}
+.pBall{
+  border-radius: 50%;
+  behavior: url(PIE.htc); /* remove if you don't care about IE8 */
+  width: 240px;
+  height: 240px;
+  padding: 8px;
+
+  background: #e74c3c;
+  border: 5px solid #666;
+  color: #666;
+  text-align: center;
+
+  font-family: Oswald, sans-serif;
+  display: inline-block;
+
+}
