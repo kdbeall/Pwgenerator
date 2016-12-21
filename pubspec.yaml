@@ -1,6 +1,0 @@
-name: pwgenerator
-version: 0.0.1
-description: Powerball number generator.
-dependencies:
-  html: any
-
