@@ -1,5 +1,6 @@
-name: my_project
+name: pwgenerator
 version: 0.0.1
-description: My project.
+description: Powerball number generator.
 dependencies:
   html: any
+
